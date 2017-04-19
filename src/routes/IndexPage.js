@@ -1,7 +1,6 @@
 import React from 'react';
 import { connect } from 'dva';
 import styles from './IndexPage.css';
-import 'antd/dist/antd.less';
 
 function IndexPage() {
   return (
